@@ -6,7 +6,8 @@ This dataset reflects reported incidents of crime (with the exception of murders
 
 ### Datasource:
 https://catalog.data.gov/dataset/crimes-2001-to-present?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9 \
-https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data \
+Support: https://datahub.cmap.illinois.gov/maps/CMAPGIS::community-data-snapshots-historical-data-2015-2026/about
 
 ### Dataset Period:
 23 Jan 2020 - 05 Oct 2026
