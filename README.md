@@ -4,9 +4,12 @@ Notice: The analysis conducted does not represent an official analysis.
 
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2020 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified.
 
-#### Datasource:
+### Datasource:
 https://catalog.data.gov/dataset/crimes-2001-to-present?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9 \
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
+
+### Dataset Period:
+23 Jan 2020 - 05 Oct 2026
 
 ### Variables:
 | Variable | Descriptions |
@@ -42,6 +45,7 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/ab
 
 ### Conclusions:
 Determine cluster/wards based on historical crimes data, and find the center of each cluster by using Unsupervised Machine Learning approach. By doing so, it is hoped that crimes can be mitigated around the clustered area.\
-<img width="1212" height="726" alt="image" src="https://github.com/user-attachments/assets/eb2b906f-36fa-44e8-858c-7f0e92f83859" />
+<img width="1217" height="685" alt="Chicago Crimes" src="https://github.com/user-attachments/assets/e2565b52-f417-4130-88f2-0f109a53e0da" />
+
 
 
